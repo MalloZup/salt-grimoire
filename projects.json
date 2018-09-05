@@ -1,0 +1,9 @@
+{
+    "saltstack-suse": {
+        "github": [
+            "https://github.com/openSUSE/salt-toaster",
+            "https://github.com/openSUSE/salt",
+	    "https://github.com/openSUSE/salt-integration"
+        ]
+    }
+}
