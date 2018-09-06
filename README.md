@@ -1,6 +1,8 @@
-# Saltstack Suse grimoirelab experimental
+# salt grimoirelab experimental
 
 Welcome at moment this project is under development.
+
+Goal for this project is to use grimoirelab for specific purposes on salt dev.
 
 # Deployment:
 However you can deploy already a first version with:
